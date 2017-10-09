@@ -100,7 +100,7 @@ can return it as an output as well:
         else:
             return welcome
 
-    a = hi()
+    a = hi
     print(a)
     #outputs: <function greet at 0x7f2143c01500>
 
